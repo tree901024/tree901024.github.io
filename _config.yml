@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Paper Unboxing : tree's AI Log
+title: "Paper Unboxing : tree's AI Log"
 
-tagline: 가장 핫한 AI 논문, 수식부터 한계점까지 언박싱 해드립니다.
+tagline: "가장 핫한 AI 논문, 수식부터 한계점까지 언박싱 해드립니다."
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
