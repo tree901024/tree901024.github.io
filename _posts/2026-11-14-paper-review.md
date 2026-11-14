@@ -1,6 +1,6 @@
 ---
 title: "Hello World! 쏟아지는 AI 논문, 이제 '언박싱' 해드립니다. 📦"
-date: 2026-11-14 10:00:00 +0900
+date: 2026-11-14 09:00:00 +0900
 categories: [Notice, Introduction]
 tags: [Blog, AI, NLP, CV]
 ---
